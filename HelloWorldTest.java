@@ -10,7 +10,7 @@ public class HelloWorldTest
     @org.junit.jupiter.api.Test
     public void testMain() 
     {
-        System.out.println("Hello World");
+        System.out.println("Hello World hai");
     }
     
 }
